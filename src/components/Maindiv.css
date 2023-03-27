@@ -1,0 +1,31 @@
+
+table{
+    border-spacing: 0 10rem;
+}
+
+.tableh{
+    background-color: black;
+    height: 2rem;
+    color: white;
+    gap: 3rem;
+    width: 100%;
+  
+
+}
+
+.tablebody{
+    width: 98%;
+    border-collapse: collapse;
+  
+}
+
+.trdata{
+    text-align: center;
+    border-bottom:1px solid rgba(0, 0, 0, 0.137);
+    border-bottom-width: thin;
+ 
+   
+   
+}
+
+

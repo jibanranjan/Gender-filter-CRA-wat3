@@ -1,0 +1,29 @@
+
+.navbar{
+    background-color: black;
+   margin-top: 0;
+   height: 4rem;
+    
+   padding: 1%;
+   display: flex;
+   justify-content: flex-end;
+}
+
+
+.navConataints{
+    color: white;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-right: 40px;
+    
+  
+    
+
+}
+
+.navLinks{
+    color: white;
+    text-decoration: none;
+}
